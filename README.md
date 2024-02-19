@@ -1,4 +1,4 @@
-👋 Hi, I’m @celiadoyle. 🎓 I'm a recent Johns Hopkins University graduate with a master’s in systems engineering. 🌎 I hope to to apply my optimization and network analysis skills to meaningful, human-centered contexts at the intersection of engineering and sustainability.
+Hi, I’m @celiadoyle. I'm a recent Johns Hopkins University graduate with a master’s in systems engineering. I hope to to apply my optimization and network analysis skills to meaningful, human-centered contexts at the intersection of engineering and sustainability.
 
 <!---
 celiadoyle/celiadoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
